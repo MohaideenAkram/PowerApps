@@ -102,8 +102,6 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "BrowseScreen1",
-    "DetailScreen1",
-    "EditScreen1"
+    "BrowseScreen1"
   ]
 }
