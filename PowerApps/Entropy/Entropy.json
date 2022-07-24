@@ -6,7 +6,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/24/2022 11:27:06",
+  "HeaderLastSavedDateTimeUTC": "07/24/2022 11:28:16",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "2242f799-d5e3-4627-ab6d-6c3c1100b3d8": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/shared-sharepointonl-9fd35bb2-0853-44ad-b8d4-ea0e309daecc\""
@@ -32,21 +32,11 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.8149,
+    "AnalysisLoadTime": 0.005943,
     "ControlCount": {
-      "datepicker": 1,
-      "form": 1,
-      "formViewer": 1,
-      "gallery": 1,
-      "galleryTemplate": 1,
-      "icon": 10,
-      "label": 46,
-      "rectangle": 5,
-      "screen": 3,
-      "text": 8,
-      "typedDataCard": 16
+      "screen": 1
     },
-    "DeserializationLoadTime": 2.9076025,
+    "DeserializationLoadTime": 2.7462265,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
