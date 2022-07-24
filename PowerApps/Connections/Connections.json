@@ -1,0 +1,30 @@
+{
+  "2242f799-d5e3-4627-ab6d-6c3c1100b3d8": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1588/1.0.1588.2938/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://cheriana.sharepoint.com/sites/DiyarCommunication": {
+        "dataSources": {
+          "INTERNALAPPROVAL": {
+            "tableName": "bf00d614-791d-40e9-bdb6-b35ffadbb054"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "INTERNALAPPROVAL"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "2242f799-d5e3-4627-ab6d-6c3c1100b3d8"
+  }
+}
